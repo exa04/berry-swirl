@@ -2,7 +2,8 @@
   "name": "berry-swirl",
   "displayName": "Berry Swirl",
   "description": "A vibrant theme with lovely pastel colors against a sweet purple background",
-  "version": "0.0.1",
+  "repository": "https://github.com/223230/berry-swirl",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.87.0"
   },
