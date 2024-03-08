@@ -19,5 +19,6 @@
         "path": "./themes/Berry Swirl-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "icon.png"
 }
