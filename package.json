@@ -2,6 +2,7 @@
   "name": "berry-swirl",
   "publisher": "223230",
   "displayName": "Berry Swirl",
+  "galleryBanner": {"theme": "dark", "color": "#161221"},
   "description": "A vibrant theme with lovely pastel colors against a sweet purple background",
   "repository": "https://github.com/223230/berry-swirl",
   "version": "1.0.1",
