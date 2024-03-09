@@ -1964,7 +1964,7 @@
 	  "editorGutter.deletedBackground": "#8c3b46",
 	  "editorGutter.foldingControlForeground": "#5f5678",
 	  "editorCodeLens.foreground": "#938ca7",
-	  "editorGroup.border": "#938ca7",
+	  "editorGroup.border": "#464058",
 	  "diffEditor.insertedTextBackground": "#9bb95533",
 	  "diffEditor.removedTextBackground": "#ff000033",
 	  "diffEditor.border": "#938ca7",
