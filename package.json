@@ -5,7 +5,7 @@
   "galleryBanner": {"theme": "dark", "color": "#161221"},
   "description": "A vibrant theme with lovely pastel colors against a sweet purple background",
   "repository": "https://github.com/223230/berry-swirl",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -18,6 +18,11 @@
         "label": "Berry Swirl",
         "uiTheme": "vs-dark",
         "path": "./themes/Berry Swirl-color-theme.json"
+      },
+      {
+        "label": "Vanilla Berry Swirl",
+        "uiTheme": "vs",
+        "path": "./themes/Vanilla Berry Swirl-color-theme.json"
       }
     ]
   },

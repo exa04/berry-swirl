@@ -1,9 +1,22 @@
 # Change Log
 
-All notable changes to the "berry-swirl" extension will be documented in this file.
+All notable changes to the "Berry Swirl" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.1.0
 
-## [Unreleased]
+- Add a light variant
+- Adjust whitespace colors for dark theme
+
+## 1.0.3
+
+- Change panel border color
+- Add various missing colors
+
+## 1.0.2
+
+- Correct cursor color for terminal
+- Add a galleryBanner for the marketplace
+
+## 1.0.0
 
 - Initial release
